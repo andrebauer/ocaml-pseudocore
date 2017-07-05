@@ -1,0 +1,66 @@
+lib: [
+  "_build/install/default/lib/pseudocore/META" {"META"}
+  "_build/install/default/lib/pseudocore/opam" {"opam"}
+  "_build/install/default/lib/pseudocore/caml/caml.cmi" {"caml/caml.cmi"}
+  "_build/install/default/lib/pseudocore/caml/caml.cmx" {"caml/caml.cmx"}
+  "_build/install/default/lib/pseudocore/caml/caml.cmt" {"caml/caml.cmt"}
+  "_build/install/default/lib/pseudocore/caml/caml.ml" {"caml/caml.ml"}
+  "_build/install/default/lib/pseudocore/caml/caml.cma" {"caml/caml.cma"}
+  "_build/install/default/lib/pseudocore/caml/caml.cmxa" {"caml/caml.cmxa"}
+  "_build/install/default/lib/pseudocore/caml/caml.a" {"caml/caml.a"}
+  "_build/install/default/lib/pseudocore/caml/caml.cmxs" {"caml/caml.cmxs"}
+  "_build/install/default/lib/pseudocore/pseudocore__Bigbuffer.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigbuffer.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigbuffer.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigbuffer.cmti"
+  "_build/install/default/lib/pseudocore/bigbuffer.mli"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigstring.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigstring.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigstring.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore__Bigstring.cmti"
+  "_build/install/default/lib/pseudocore/bigstring.mli"
+  "_build/install/default/lib/pseudocore/pseudocore__Exn.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__Exn.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__Exn.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore__Exn.cmti"
+  "_build/install/default/lib/pseudocore/exn.mli"
+  "_build/install/default/lib/pseudocore/pseudocore__Import0.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__Import0.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__Import0.cmt"
+  "_build/install/default/lib/pseudocore/import0.ml"
+  "_build/install/default/lib/pseudocore/pseudocore__Option.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__Option.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__Option.cmt"
+  "_build/install/default/lib/pseudocore/option.ml"
+  "_build/install/default/lib/pseudocore/pseudocore.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore.ml"
+  "_build/install/default/lib/pseudocore/pseudocore__.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore__.ml-gen"
+  "_build/install/default/lib/pseudocore/pseudocore__Queue_.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__Queue_.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__Queue_.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore__Queue_.cmti"
+  "_build/install/default/lib/pseudocore/queue_.mli"
+  "_build/install/default/lib/pseudocore/pseudocore__String_.cmi"
+  "_build/install/default/lib/pseudocore/pseudocore__String_.cmx"
+  "_build/install/default/lib/pseudocore/pseudocore__String_.cmt"
+  "_build/install/default/lib/pseudocore/pseudocore__String_.cmti"
+  "_build/install/default/lib/pseudocore/string_.mli"
+  "_build/install/default/lib/pseudocore/pseudocore.cma"
+  "_build/install/default/lib/pseudocore/pseudocore.cmxa"
+  "_build/install/default/lib/pseudocore/pseudocore.a"
+  "_build/install/default/lib/pseudocore/pseudocore.cmxs"
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cmi" {"shadow_stdlib/shadow_stdlib.cmi"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cmx" {"shadow_stdlib/shadow_stdlib.cmx"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cmt" {"shadow_stdlib/shadow_stdlib.cmt"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cmti" {"shadow_stdlib/shadow_stdlib.cmti"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.mli" {"shadow_stdlib/shadow_stdlib.mli"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cma" {"shadow_stdlib/shadow_stdlib.cma"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cmxa" {"shadow_stdlib/shadow_stdlib.cmxa"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.a" {"shadow_stdlib/shadow_stdlib.a"}
+  "_build/install/default/lib/pseudocore/shadow_stdlib/shadow_stdlib.cmxs" {"shadow_stdlib/shadow_stdlib.cmxs"}
+]

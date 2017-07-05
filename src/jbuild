@@ -1,0 +1,9 @@
+(library
+  ((name pseudocore)
+   (public_name pseudocore)
+   (libraries (fmt
+   	       caml
+	       shadow_stdlib
+   	       oUnit))))	
+
+(jbuild_version 1)	       

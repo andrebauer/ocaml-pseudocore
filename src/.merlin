@@ -1,0 +1,11 @@
+B ../../_build/default/pseudocore/compiler-stdlib/src
+B ../../_build/default/pseudocore/shadow-stdlib/src
+B ../../_build/default/pseudocore/src
+FLG -open Pseudocore__ -w -40
+PKG fmt
+PKG oUnit
+PKG oUnit.advanced
+PKG result
+PKG uchar
+PKG unix
+S .

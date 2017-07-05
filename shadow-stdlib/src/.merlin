@@ -1,0 +1,4 @@
+B ../../../_build/default/pseudocore/compiler-stdlib/src
+B ../../../_build/default/pseudocore/shadow-stdlib/src
+FLG -w -40
+S .
